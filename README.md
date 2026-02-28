@@ -1,4 +1,4 @@
-# Relational Databases Certification
+# Relational Databases Certification Project
 
 ## Build a Periodic Table Database
 For this lab, you will create a Bash script to get information about chemical elements from a periodic table database.
